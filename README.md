@@ -15,9 +15,8 @@ Project is created with:
 * Bootstrap
 * jQuery
 
-
 ## Tools
-The following tools were used
+The following tools were used:
 * NPM
 * Git
 
